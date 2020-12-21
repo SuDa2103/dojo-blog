@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the blog",
+      "body": "Lorem upsunjkaskjashbasbjkasdbjkasd",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 css tricks",
+      "body": "Lorem upsunjkaskjashbasbjkasdbjkasd",
+      "tags": [
+        "webdev",
+        "coding",
+        "css"
+      ]
+    },
+    {
+      "title": "asda",
+      "body": "asdas",
+      "tags": [
+        "html"
+      ],
+      "id": 3
+    },
+    {
+      "title": "asdbjhas",
+      "body": "asdasd",
+      "tags": [
+        "home"
+      ],
+      "id": 4
+    },
+    {
+      "title": "asdasd",
+      "body": "asdas",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "id": 5
+    }
+  ]
+}
